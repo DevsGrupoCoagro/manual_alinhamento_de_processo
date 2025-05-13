@@ -428,6 +428,11 @@ Os níveis vão de **0 a 5**, conforme abaixo:
 - **Nível 3**: Acessa os níveis 3 a 5.
 - **Nível 4**: Acessa os níveis 4 e 5.
 - **Nível 5**: Acesso restrito — visualiza apenas o próprio nível.
+  > DICA: `LEMBRA DE SER MAIOR E IGUAL`
+
+<p align="center">
+  <img src="images/522/522_logi_02.png" alt="dica 522" width="600">
+</p>
 
 > Essa estrutura permite segmentar permissões e estratégias comerciais por canal, equipe ou tipo de operação.
 
@@ -856,7 +861,8 @@ _(Nenhum vídeo específico disponível para essa rotina.)_
 
 ### 🎥 Vídeo Tutorial
 
-> Não possui no momento
+- [ROTINA 4116 VENDAS HOME CENTER /PARTI 1](https://www.youtube.com/watch?v=NBJXuoHJ6oc)
+- [ROTINA 4116, VENDAS HOME CENTER PARTE 2](https://www.youtube.com/watch?v=kSAjwFq33yE)
 
 ### 📄 Documentação
 
