@@ -941,3 +941,50 @@ _(Nenhum vídeo específico disponível para essa rotina.)_
 > E altere o plano de pagamento
 
 ---
+
+## 🧾 Cadastrar Funcionário/Setor (Rotina 528)
+
+### 🎯 Finalidade
+
+Cadastrar Funcionário/Setor tem a finalidade de criar e manter o vínculo entre colaboradores e os setores (departamentos ou “grupos”) da empresa, permitindo alocar cada funcionário ao seu respectivo setor operacional. Além disso, esses “setores” servem de base para controle de acesso e parametrização de permissões dentro do ERP e do Monitor PDV, organizando a estrutura funcional da companhia.
+
+### 🎥 Vídeo Tutorial
+
+- [528 - Cadastrar Func/Setor - Parte I](https://youtu.be/3uj56rG2YTk?si=KYKcdAJF5KnxArlc)
+- [528 - Cadastrar Func/Setor - Parte II](https://www.youtube.com/watch?v=1fYnrnq0hC0)
+- [528 - Cadastrar Func/Setor - Parte III](https://www.youtube.com/watch?v=gDA4mjp93pU)
+
+### 📚 Informações adicionais
+
+> Não possui no momento
+
+### Como incluir um novo setor na rotina 528?
+
+Para incluir um novo setor na rotina 528 - Cadastrar Funcionário/Setor, realize os procedimentos abaixo:
+
+> 1. Acesse a rotina **528**;
+> 2. Clique **Pesquisar**;
+> 3. Na caixa **Setores** selecione um setor e pressione seta para baixo até a última linha;
+> 4. Cadastre o novo setor na linha em branco;
+
+<p align="center">
+  <img src="images/528/page1.png" alt="Erro 4116" width="600">
+</p>
+
+> 5. Pressione a seta para baixo para **Salvar**;
+
+### Como liberar o campo limite de credito da rotina 1203 usando 528?
+
+> 1.  Acesse a rotina **528 - Cadastrar Funcionário/Setor**;
+> 2.  Pesquise o funcionário e de duplo clique sobre o cadastro;
+> 3.  Acesse a aba **Financeiro** e preencha o campo **Valor limite de credito do cliente** e também o campo **Valor limite de aumento crédito**;
+> 4.  Clique **Confirmar**.
+
+<p align="center">
+  <img src="images/528/page2.png" alt="Erro 4116" width="600">
+</p>
+
+> **Importante**:
+>
+> - O Valor limite de aumento crédito é o valor que o funcionário pode aumentar de limite para o cliente por vez.
+> - O Valor limite de credito do cliente é o valor que o funcionário tem para distribuir este crédito entre os cadastros, uma vez zerando não será possível aumentar o limite para outros cadastro. Esse valor disponível é mostrado no campo Saldo restante para aumento de crédito.
